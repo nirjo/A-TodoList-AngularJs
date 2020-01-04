@@ -1,12 +1,6 @@
 /* css for app component only */
 
 /*see styles.css at root of project for global css*/
-body{
-  background-color: #000;
-}
-
-
-
 
 .logo {
   display: block;
@@ -74,7 +68,7 @@ ul {
 }
 
 .container {
-  color: #7313cb;
+  color: #fff;
   max-width: 500px;
   margin: auto;
 }
